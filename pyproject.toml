@@ -6,7 +6,7 @@ build-backend = "setuptools.build_meta" # Backend que se usará para construir e
 # Metadatos principales del proyecto
 [project]
 name = "utilidades-notebooks"          # Nombre del paquete (debe ser único en PyPI, todo minúsculas y sin espacios)
-version = "0.1.0"                     # Versión actual del paquete (formato semántico: mayor.menor.parche)
+version = "0.2.0"                     # Versión actual del paquete (formato semántico: mayor.menor.parche)
 description = "Funciones reutilizables para mis notebooks" # Descripción breve del paquete
 readme = "README.md"                   # Archivo que contiene la descripción larga (se mostrará en PyPI)
 requires-python = ">=3.9"             # Versión mínima de Python requerida para usar este paquete
